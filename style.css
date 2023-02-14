@@ -1,0 +1,16 @@
+body{
+    /* background-color: rgba(0, 105, 92, 1)!important; */
+    background-color: rgba(0, 77, 64, 1)!important;
+    font-family:arial;
+}
+.Bookmark{
+background-color:#CCE1DE ;
+}
+label{
+font-weight:700;
+font-size:24px;
+Color:rgb(0, 0, 0);
+}
+.max-w{
+    max-width: 90px;
+}
